@@ -1,0 +1,37 @@
+
+Observation between the last friday and this friday in PULSAR and TF modes 
+
+There are 15 new Observation(s) in PULSAR mode this week:
+
+	Obs Date : 20230711	Obs Name : B0329+54
+	Obs Date : 20230706	Obs Name : B1508+55
+	Obs Date : 20230706	Obs Name : FRB180916
+	Obs Date : 20230707	Obs Name : FRB180916
+	Obs Date : 20230711	Obs Name : FRB180916
+	Obs Date : 20230708	Obs Name : FRB20180814A
+	Obs Date : 20230704	Obs Name : FRB20180908B
+	Obs Date : 20230705	Obs Name : FRB20180908B
+	Obs Date : 20230701	Obs Name : FRB20181030A
+	Obs Date : 20230702	Obs Name : FRB20181030A
+	Obs Date : 20230708	Obs Name : FRB20190107B
+	Obs Date : 20230706	Obs Name : FRB20190303A
+	Obs Date : 20230708	Obs Name : FRB20190303A
+	Obs Date : 20230701	Obs Name : FRB20220912A
+	Obs Date : 20230702	Obs Name : FRB20220912A
+
+  
+There are 13 new Observation(s) in TF mode this week:
+
+	Obs Date : 20230701	Obs Name : FRB20220912A
+	Obs Date : 20230701	Obs Name : FRB20181030A
+	Obs Date : 20230702	Obs Name : FRB20220912A
+	Obs Date : 20230702	Obs Name : FRB20181030A
+	Obs Date : 20230704	Obs Name : FRB20180908B
+	Obs Date : 20230705	Obs Name : FRB20180908B
+	Obs Date : 20230706	Obs Name : FRB20180916B
+	Obs Date : 20230706	Obs Name : B1508+55
+	Obs Date : 20230706	Obs Name : FRB20190303A
+	Obs Date : 20230707	Obs Name : FRB20180916B
+	Obs Date : 20230708	Obs Name : FRB20190303A
+	Obs Date : 20230711	Obs Name : B0329+54
+	Obs Date : 20230711	Obs Name : FRB20180916B

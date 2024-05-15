@@ -1,0 +1,37 @@
+
+L'Observation de FRB20220912A observé en TF mode le 20230701 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 218 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20220912A_D20230701T0401_60126_253444_0054_BEAM1_0001.fits
+
+L'Observation de FRB20181030A observé en TF mode le 20230701 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 103 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20181030A_D20230701T1501_60126_501344_0063_BEAM2_0001.fits
+
+L'Observation de FRB20220912A observé en TF mode le 20230702 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 218 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20220912A_D20230702T0401_60127_253445_0054_BEAM1_0001.fits
+
+L'Observation de FRB20181030A observé en TF mode le 20230702 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 103 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20181030A_D20230702T1501_60127_501345_0063_BEAM2_0001.fits
+
+L'Observation de FRB20180908B observé en TF mode le 20230704 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 195 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20180908B_D20230704T1601_60129_253464_0054_BEAM1_0001.fits
+
+L'Observation de FRB20180908B observé en TF mode le 20230705 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 195 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20180908B_D20230705T1601_60130_253472_0054_BEAM1_0001.fits
+
+!!!!!!!! WARNING !!!!!!!! L'Observation de FRB20180916B le 20230706 n'est pas présente dans le mode PULSAR 
+
+L'Observation de B1508+55 observé en TF mode le 20230706 est présent dans le mode PULSAR mais pas dans la base de donnée 
+!!!!! Le traitement n'est pas possible, Path : /databf/nenufar-pulsar/LT05/2023/07/B1508+55_D20230706T1601_60131_253473_0054_BEAM1_0001.fits
+
+L'Observation de FRB20190303A observé en TF mode le 20230706 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 221 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20190303A_D20230706T1701_60131_253474_0054_BEAM1_0001.fits
+
+!!!!!!!! WARNING !!!!!!!! L'Observation de FRB20180916B le 20230707 n'est pas présente dans le mode PULSAR 
+
+L'Observation de FRB20190303A observé en TF mode le 20230708 est présent dans le mode PULSAR et dans la base de donnée 
+Le DM est de 221 pc/cm3 et le path est /databf/nenufar-pulsar/LT05/2023/07/FRB20190303A_D20230708T1701_60133_253483_0054_BEAM1_0001.fits
+
+L'Observation de B0329+54 observé en TF mode le 20230711 est présent dans le mode PULSAR mais pas dans la base de donnée 
+!!!!! Le traitement n'est pas possible, Path : /databf/nenufar-pulsar/LT05/2023/07/B0329+54_D20230711T0401_60136_253496_0054_BEAM1_0001.fits
+
+!!!!!!!! WARNING !!!!!!!! L'Observation de FRB20180916B le 20230711 n'est pas présente dans le mode PULSAR 
+
