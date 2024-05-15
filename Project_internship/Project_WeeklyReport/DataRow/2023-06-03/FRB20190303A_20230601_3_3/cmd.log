@@ -1,0 +1,12 @@
+241 201 3 3 0.5 0.5
+Runing RFI find
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 201.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 205.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 209.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 213.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 217.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 221.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 225.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 229.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 233.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
+prepsubband -psrfits -noclip -nobary -dmstep 0.0100 -downsamp 1 -lodm 237.0000 -numdms 400 -mask FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_rfifind.mask -o search FRB20190303A_D20230601T1901_60096_253263_0054_BEAM1_0001_8bit.fits
