@@ -1,0 +1,149 @@
+FRB20180916B: (pseudo periodical CHIME)
+(ancien nom: FRB180916)
+
+
+RA, Dec: 01:58:00., +65:43:00.
+
+
+DM: 349.3491±0.0058 pc.cm−3
+RM: -114.6 rad.m^-2
+F ∼ 6.1±1.7 Jy.ms (Peak ∼ 1.84±0.72 Jy at 603.9 MHz)
+scattering ~1.05±0.17 msec at 600 MHz
+alpha ~-5
+→ observed down to 300MHz with the GBT 
+
+FRB20200120E:
+(ancien nom: FRB20200120)
+
+
+RA, Dec: 09:57:56.7, +68:49:31.8
+
+
+DM: 87.7527 pc.cm-3
+RM: -26.8(3) -29.8(5) ±1 (syst error) rad.m^-2
+F ~ 2 Jy.ms (Peak ~ 1.8 Jy at 600MHz)
+scattering ~<0.23 msec at 600MHz (APJ910:L18 (15pp), 2021 April 1) (0.0001 msec at 1400MHz)
+alpha ~-2
+→ broad emission width 0.16 ms, closest discovered
+
+FRB20181030A: (CHIME)
+(ancien nom: FRB181030)
+
+
+RA, Dec: 10:34:07., +73:47:24.
+
+
+DM: 103.3960±0.0058 pc.cm−3
+RM:
+F ∼ 8.2±5.9 Jy.ms (Peak ∼ 4.3±3.6 Jy at 703.7 MHz)
+scattering ~0.88 msec  at 600 MHz
+alpha ~-3
+
+FRB20180814A: (CHIME)
+(ancien nom: FRB180814)
+
+
+RA, Dec: 04:22:22., 73:04:00.
+
+
+DM: 189.286±0.076 pc.cm−3
+RM: ??
+F ∼ 2.6±1.0 Jy.ms (Peak ∼ 0.39±0.30 Jy at 464.2 MHz)
+scattering ~3.1 msec at 600 MHz
+alpha ~-4
+
+FRB20180908B:
+(ancien nom: FRB180908)
+RA, Dec: 12:32:00., +74:12:00.
+DM: 195.2393±0.0064 pc cm^-3
+RM:
+F ~ 5.0±1.7 Jy.ms (Peak ~ 1.17±0.50 Jy at 584.1MHz)
+scattering ~ <2.1 msec at 600 MHz
+alpha ~-5
+
+
+FRB20220912A:
+RA, Dec: 23:09:09.60., +48:42:00.0 (23h09h04.9s +48d42m25.4s (J2000) ATel #15693)
+DM: 218.9 ± 0.8 pc cm^-3
+RM: +0.6 rad.m^-2
+F ~ 65 Jy.ms (Peak ~ 14 Jy at 408MHz)
+scattering ~ ?? at MHz
+alpha ~ ??
+→ shows multi-peaked profile at CHIME frequencies (400-800 MHz) and high burst detection rate (200-300 burst/day at Jy ms threshold).
+
+
+
+FRB20190303A:
+(ancien nom: FRB190303)
+RA, Dec: 13:53:00., +48:15:00.
+DM: 221.667±0.017 pc cm^-3
+RM: -499.9±0.7 rad.m^-2
+F ~ 2.54±0.97 Jy.ms (Peak ~ 0.47±0.26 Jy at 631.5MHz)
+scattering ~2.96 msec at 600 MHz
+alpha ~-6
+
+FRB20181017A:
+(ancien nom: FRB181017)
+RA, Dec: 22:05:54.82, −08:50:34.22 (UTMOST 1905.02293)
+DM: 239.97 pc cm^-3
+RM: ??
+F ~ 13-52 Jy.ms (Peak ~ 39-161 Jy)
+scattering ~0.00158 msec at 835MHz
+alpha ~ ??
+
+FRB151125:
+RA, Dec: 01:31:00., +30:58:48.
+DM: 273 pc cm^-3
+RM: ??
+F ~ 2450 Jy.ms (Peak 0.54 ~ Jy)
+scattering ~?? at MHz
+alpha ~??
+
+FRB190907:
+RA, Dec: 08:09:00., +46:16:00.
+DM: 310.9 pc cm^-3
+RM: ??
+F ~ 1.7 Jy.ms (Peak ~ 0.3 Jy)
+scattering ~<6 msec at 600MHz
+alpha ~ ??
+
+
+
+SGR1935+2154:
+RA, Dec: 19:34:55.68, +21:53:48.2
+DM: 332.7 pc cm^-3
+RM: 112.3 rad.m^-2
+F ~ 220-480 kJy.ms (Peak ~ 110-150 kJy at 600MHz)
+scattering ~0.759 msec at 600MHz
+alpha ~-5.61 - 3.61
+
+FRB20121102A: (Arecibo repeater)
+(ancien nom: FRB121102)
+
+
+RA, Dec: 5:31:58.7, +33:08:52.59
+
+
+DM: 564.367±0.043 pc.cm−3
+RM: 10^5 rad.m^-2
+F ∼ 12.6±5.5 Jy.ms (Peak ∼ 0.46±0.28 Jy at 587.2MHz)
+scattering ~<6.9 msec at 600 MHz (50 ms at 150MHz Pleunis et al. 2021)
+alpha ~-7
+
+FRB20190425A: (non-repeater)
+RA, Dec: 17:02:52.8, 21:31:12.
+DM: 128.15774±0.00016
+F ~31.6±4.2 (Peak ~18.6±2.6 at 591.8MHz)
+scattering ~0.38 msec at 600 MHz
+alpha ~-8 or 0
+
+FRB20181223C: (non-repeater)
+RA, Dec:12:4:12., 27:34:48.
+DM: 112.5118±0.0035 pc.cm−3
+F ~2.84±0.93 (Peak ~ 1.36±0.51 at 479.2MHz)
+scattering ~0.107 msec at 600 MHz
+alpha ~-2
+
+Zenith:
+local Zenith
+blind search
